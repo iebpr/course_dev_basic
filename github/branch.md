@@ -1,14 +1,12 @@
 ---
-style: |
-  img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
+noteId: "501d60d2c16e11ee9c55ed391454df94"
+tags: []
+style: "img {\n  display: block;\n  float: none;\n  margin-left: auto;\n  margin-right: auto;\n}\n"
 marp: true
 paginate: true
+
 ---
+
 # [Branch 사용법](https://subicura.com/git/guide/branch.html#git-switch-c-%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8E%E1%85%B5-%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC)
 
 ## git switch -c - 브랜치 생성

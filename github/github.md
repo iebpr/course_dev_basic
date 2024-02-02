@@ -1,14 +1,12 @@
 ---
-style: |
-  img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
+noteId: "501d60d1c16e11ee9c55ed391454df94"
+tags: []
+style: "img {\n  display: block;\n  float: none;\n  margin-left: auto;\n  margin-right: auto;\n}\n"
 marp: true
 paginate: true
+
 ---
+
 # Github 저장소 
 Github은 원격 저장소와 로컬 저장소 두 종류의 저장소를 제공합니다.
 

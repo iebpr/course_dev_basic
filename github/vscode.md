@@ -1,14 +1,12 @@
 ---
-style: |
-  img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
+noteId: "501d87e2c16e11ee9c55ed391454df94"
+tags: []
+style: "img {\n  display: block;\n  float: none;\n  margin-left: auto;\n  margin-right: auto;\n}\n"
 marp: true
 paginate: true
+
 ---
+
 # [vscode를 이용한 git 사용법](https://learn.microsoft.com/ko-kr/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=activity-bar)
 
 ## 1. 리포지토리 생성 방법 

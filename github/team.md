@@ -1,14 +1,12 @@
 ---
-style: |
-  img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
+noteId: "501d87e0c16e11ee9c55ed391454df94"
+tags: []
+style: "img {\n  display: block;\n  float: none;\n  margin-left: auto;\n  margin-right: auto;\n}\n"
 marp: true
 paginate: true
+
 ---
+
 # [Github 팀프로젝트 하기](https://www.youtube.com/watch?v=tkkbYCajCjM)
 
 ---

@@ -1,14 +1,12 @@
 ---
-style: |
-  img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
+noteId: "501d39c2c16e11ee9c55ed391454df94"
+tags: []
+style: "img {\n  display: block;\n  float: none;\n  margin-left: auto;\n  margin-right: auto;\n}\n"
 marp: true
 paginate: true
+
 ---
+
 # [버전 관리 시스템](https://namu.wiki/w/%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
 문서나 설계도, 소스 코드 등의 변경점을 관리해주는 소프트웨어.
 
