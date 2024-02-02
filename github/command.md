@@ -18,7 +18,7 @@ $ touch red orange # 파일 만들기
 $ echo "빨강" >> red # 파일 수정하기 
 $ echo "주황" >> orange # 파일 수정하기 
 
-$ git init # (로컬)저장소 만들기 # [참고].git 디렉토리 내용 (./add directory_.git.md)
+$ git init # (로컬)저장소 만들기 [참고].git 디렉토리 내용 (https://github.com/iebpr/course_dev_basic/blob/main/github/DirectoryGit.md)
 $ ls -al # 데랙토리 생성 
 ```
 
