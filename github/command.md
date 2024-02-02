@@ -21,7 +21,8 @@ $ echo "주황" >> orange # 파일 수정하기
 $ git init # (로컬)저장소 만들기 
 $ ls -al # 데랙토리 생성 
 ```
-#### [참고].git 하위 디렉토리 설명 (https://github.com/iebpr/course_dev_basic/blob/main/github/DirectoryGit.md)
+
+#### [참고 : .git 하위 디렉토리 설명](https://github.com/iebpr/course_dev_basic/blob/main/github/DirectoryGit.md)
 
 ```shell
 $ mkdir sample # 디렉토리 생성 
